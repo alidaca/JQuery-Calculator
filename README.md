@@ -1,6 +1,6 @@
 # Javascript Calculator
 
-Online calculator built in JQuery.
+Online calculator built in JQuery. See the project [here](http://alidaca.github.io/JQuery-Calculator/).
 
 ## Funcionality
 
